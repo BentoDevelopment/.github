@@ -2,5 +2,7 @@
 <h1>BentoDevelopment</h1>
 
 ### 🔗 Links 
-**Negative Games**: https://discord.negative.games  
+**[Discord](https://discord.gg/gNTPAsJRZt)**  
+**[McMarket](#)** - Coming soon!  
+**[Polymart](#)** - Coming soon! 
 </div>
